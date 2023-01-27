@@ -45,4 +45,7 @@ export const surpriseMePrompts = [
 	'Synthwave aeroplane',
 	'A man wanders through the rainy streets of Tokyo, with bright neon signs, 50mm',
 	'A Space Shuttle flying above Cape Town, digital art',
+	'hungarian parliament underwater-beach, palm trees behind, aerial shot, real photography, unreal-engine, 4k, highly detailed --wallpaper --uplight',
+	'secret vintage photo of rubber duck commitng war crimes in World war 2, why is he did that. --ar 4:5',
+	'Cat’s restaurant, in da Vinci style, trending on artstation',
 ]
